@@ -1,2 +1,2 @@
-# Tennis-ball-using-physics-engine
-When the ball falls down, it bounces until it is stable.
+# staticSquare
+A static square made using Matter.js physics engine
